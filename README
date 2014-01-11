@@ -1,2 +1,3 @@
-Les Duff's devices ne sont plus n�cessaires car les optimiseur des compilateurs sont trop malins
+Les Duff's devices ne sont plus nécessaires car les optimiseurs des compilateurs sont trop malins
+Cette technique peut encore avoir du sens dans certains cas extrêmes (fpga)
 Pour plus d'info, aller sur : http://en.wikipedia.org/wiki/Duff's_device
